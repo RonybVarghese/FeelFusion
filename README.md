@@ -37,11 +37,6 @@ Speech-Emotion-Detection/
 ├── requirements.txt
 └── README.md
 
-## ⚙ Installation
-1. Clone repository: 
-git clone https://github.com/yourusername/Speech-Emotion-Detection.git
-cd Speech-Emotion-Detection
-
 ## 🧠 How It Works
 User logs into system
 Records voice or uploads WAV file
